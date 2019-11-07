@@ -47,11 +47,7 @@ Thanks _mlk_ , m0nad,IAK,Fox and D3lf0.
 */
 #include <stdio.h>
 #include <stdlib.h>
-#include <unistd.h>
-#include <errno.h>
-#include <string.h>
-#include <netinet/in.h>
-#include <sys/socket.h>
+
 #include <sys/types.h>
 #include <signal.h>
 
