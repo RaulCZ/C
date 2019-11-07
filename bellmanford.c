@@ -125,7 +125,7 @@ int main(int argc, char *argv[])
     
     fprintf(stdout,"\no grafo tem %d vertices e %d arcos foram criados\n",nn,en);
     
-    puts("\n listando dados do grafo : \n");
+    
     for(i=0;i<nn;i++)
     {
         c=1;
