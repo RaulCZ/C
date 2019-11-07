@@ -1,19 +1,5 @@
 /*
 
-GarageCode Genial Creations Hehehe
-http://BotecoUnix.com.br
-
-*função do programa
-Postar no twitter para mostrar um simples funcionamento de um Spider em linguagem C
-usando lib Curl
-
-*requerimentos
- libcurl-dev
- visit this site to many things "http://curl.haxx.se"
-
-*tested with GCC 
- on Unix/Linux/*BSD this: 
-    gcc -o program program.c -l curl; ./program     
 
 Author: Antonio "Cooler_" 
 contact: tony.unix@yahoo.com.br
